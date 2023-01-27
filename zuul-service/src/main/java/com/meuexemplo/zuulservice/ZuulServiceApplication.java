@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
-import com.meuexemplo.zuulservice.configuration.*;
 import org.springframework.cloud.netflix.ribbon.*;
 import org.springframework.cloud.netflix.ribbon.RibbonClientConfiguration;;
 
